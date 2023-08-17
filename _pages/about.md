@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi ! Wellcome in my page."
+title: "Hi ! Welcome in my page."
 location: Montpellier
 excerpt: "About me"
 author_profile: true
