@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hi ! Wellcome in my page."
+location: Montpellier
 excerpt: "About me"
 author_profile: true
 subtitle: Inria, France
@@ -23,11 +24,8 @@ social: true  # includes social icons at the bottom of the page
 Marie-Félicia Beclin
 ======
 
-I am a PhD student at [Université de Montpellier](https://www.umontpellier.fr/formation) in [Desbrest Institute of Epidemiology and Public Health](https://idesp.umontpellier.fr/), and I am also a member of the team [PreMeDICaL](https://team.inria.fr/premedical/) at Inria. I am supervised by [Nicolas Molinari](http://n.molinari.free.fr/) and [Pierre Lafaye de Micheaux](https://web.maths.unsw.edu.au/~lafaye/). 
+I am a PhD student at [Université de Montpellier](https://www.umontpellier.fr/formation) within the [Desbrest Institute of Epidemiology and Public Health](https://idesp.umontpellier.fr/), and I am also a member of the team [PreMeDICaL](https://team.inria.fr/premedical/) at Inria. I am supervised by [Nicolas Molinari](http://n.molinari.free.fr/) and [Pierre Lafaye de Micheaux](https://web.maths.unsw.edu.au/~lafaye/). 
 
-My current work lie on applied statistics about
-
-I am an engineer by training. I am graduated form Ecole des Mines de Saint-Etienne.
-My current work lie on applied statistics. I am working with  thoracic computed tomography scans from asthmatic patients.
+While my foundational education is in engineering, having graduated from Ecole des Mines de Saint-Etienne, my current focus lies in the realm of applied statistics. Specifically, I am engrossed in the analysis of thoracic computed tomography scans from patients afflicted by asthma
 
 
