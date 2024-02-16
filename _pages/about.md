@@ -52,7 +52,7 @@ While my foundational education is in engineering, having graduated from Ecole d
 *Lycée La Merci - Montpellier*
 - Oral interview math : "Khôlle" , MP , 2023-2024
 
-## [CV](https://mariefeliciabeclin.github.io/files/cv.pdf)
+## [CV](https://mariefeliciabeclin.github.io/file/cv.pdf)
 
 
 
