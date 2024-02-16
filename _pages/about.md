@@ -30,7 +30,7 @@ While my foundational education is in engineering, having graduated from Ecole d
 
 ## Talks and Présentation 
 
-- Marie-Félicia Beclin, Pierre Lafaye de Micheaux, Nicolas Molinari, **Regression Models for Quantile Function Data Applied to CT-Scans of Asthmatic Patients**, *IMS International Conference on Statistics and Data Science, December 18-21, 2023, Lisbon, Portugal*- 20 minutes talk
+- Marie-Félicia Beclin, Pierre Lafaye de Micheaux, Nicolas Molinari, **Regression Models for Quantile Function Data Applied to CT-Scans of Asthmatic Patients**, *IMS International Conference on Statistics and Data Science*, December 18-21, 2023, Lisbon, Portugal- 20 minutes talk
 
 - Marie-Félicia Beclin, Pierre Lafaye de Micheaux, Nicolas Molinari, **Regression Models for Quantile Function Data Applied to CT-Scans of Asthmatic Patients**, *Séminaire statistique imag* , Decembre 2023
 
