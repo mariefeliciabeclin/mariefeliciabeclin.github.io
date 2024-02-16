@@ -44,6 +44,16 @@ While my foundational education is in engineering, having graduated from Ecole d
 
 ## Teaching
 
+*Université de Montpellier*
+- Algebra License 1 (Vector space, linear applications)
+- Probability Life Science License (Probability on a finite universe, binomial distribution, conditional probabilities)
+- Polytech Prep First Year: Algebra (Vector space, linear applications, bases, determinant, Gaussian pivot, Riemann integral)
+- Polytech Prep Second Year: Analysis (Sequences and Series of functions, )
+
+*Lycée La Merci - Montpellier*
+- Oral interview math : "Khôlle" , MP , 2023-2024
+
+
 
 
 
