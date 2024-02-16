@@ -30,13 +30,13 @@ While my foundational education is in engineering, having graduated from Ecole d
 
 ## Talks and Présentation 
 
-- [https://mariefeliciabeclin.github.io/talks/2023-12-talk-2] (Marie-Félicia Beclin, Pierre Lafaye de Micheaux, Nicolas Molinari, **Regression Models for Quantile Function Data Applied to CT-Scans of Asthmatic Patients**, *IMS International Conference on Statistics and Data Science*, December 18-21, 2023, Lisbon, Portugal- 20 minutes talk)
+- [Marie-Félicia Beclin, Pierre Lafaye de Micheaux, Nicolas Molinari, **Regression Models for Quantile Function Data Applied to CT-Scans of Asthmatic Patients**, *IMS International Conference on Statistics and Data Science*, December 18-21, 2023, Lisbon, Portugal- 20 minutes talk](https://mariefeliciabeclin.github.io/talks/2023-12-talk-2)
 
 - Marie-Félicia Beclin, Pierre Lafaye de Micheaux, Nicolas Molinari, **Regression Models for Quantile Function Data Applied to CT-Scans of Asthmatic Patients**, *Séminaire statistique imag* , Decembre 2023
 
 - Marie-Félicia Beclin, Pierre Lafaye de Micheaux, Nicolas Molinari, **Regression Models for Quantile Function Data Applied to CT-Scans of Asthmatic Patients**, *Seminaire IDESP December 2023*
 
-- Marie-Félicia Beclin, Pierre Lafaye de Micheaux, Nicolas Molinari, **Using Quantile Regression to Predict and Quantify some Treatment’s Response from Medical Images** *Conférence IA et Santé*, Nantes, 2022
+- [Marie-Félicia Beclin, Pierre Lafaye de Micheaux, Nicolas Molinari, **Using Quantile Regression to Predict and Quantify some Treatment’s Response from Medical Images** *Conférence IA et Santé*, Nantes, 2022](https://mariefeliciabeclin.github.io/talks/2022-06-talk-2)
 
 
 
