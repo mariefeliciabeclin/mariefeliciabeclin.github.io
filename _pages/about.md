@@ -55,7 +55,7 @@ While my foundational education is in engineering, having graduated from Ecole d
 
 Marie-Félicia Beclin, Giulia Marchello, Jean-Baptiste Woillard, Julie Josse. [**Super learner for tabular synthetic data generation. 2025. ⟨hal-05285855⟩**](https://hal.science/hal-05285855)
 
-Béclin, M. F., de Micheaux, P. L., Molinari, N., & Ouimet, F. (2024). [** A linear regression model for quantile function data applied to paired pulmonary 3d CT scans.**](https://arxiv.org/pdf/2412.15049), A linear regression model for quantile function data applied to paired pulmonary 3d CT scans.
+Béclin, M. F., de Micheaux, P. L., Molinari, N., & Ouimet, F. (2024). [**A linear regression model for quantile function data applied to paired pulmonary 3d CT scans.**](https://arxiv.org/pdf/2412.15049), A linear regression model for quantile function data applied to paired pulmonary 3d CT scans.
 
 ## Teaching
 
