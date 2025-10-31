@@ -24,15 +24,14 @@ social: true  # includes social icons at the bottom of the page
 Marie-Félicia Beclin
 ======
 
-I am currently a postdoctorant researcher at the Team EPIDERM in Université Paris-Est Créteil. I am supervised by [Pr Tat Thang Vo](https://tatthangvo.com).
+I am currently a postdoctorant researcher on Causal Inference and Biostatistics at the [Team EPIDERM](https://team-epiderme.com/) in Université Paris-Est Créteil. I am supervised by [Pr Tat Thang Vo](https://tatthangvo.com)
 
 
 Previously I was ATER at Université de Montpellier. I worked with [Dr. Julie Josse](http://juliejosse.com/) and Pr Jean-Baptiste Woillard on Superlearner for Synthetic Data Generation.
 
 Previously  I was a PhD student at [Université de Montpellier](https://www.umontpellier.fr/formation) within the [Desbrest Institute of Epidemiology and Public Health](https://idesp.umontpellier.fr/), and I am also a member of the team [PreMeDICaL](https://team.inria.fr/premedical/) at Inria. I am supervised by [Nicolas Molinari](http://n.molinari.free.fr/) and [Pierre Lafaye de Micheaux](https://web.maths.unsw.edu.au/~lafaye/). 
 
-
-While my foundational education is in engineering, having graduated from Ecole des Mines de Saint-Etienne, my current focus lies in the realm of applied statistics. Specifically, I am engrossed in the analysis of thoracic computed tomography scans from patients afflicted by asthma
+While my foundational education is in engineering, having graduated from Ecole des Mines de Saint-Etienne, my current focus lies in the realm of applied statistics. Specifically, I am engrossed in the analysis of thoracic computed tomography scans from patients afflicted by asthma. I am also working on synthetic data generation and Causal Inference.
 
 ## Talks 
 
