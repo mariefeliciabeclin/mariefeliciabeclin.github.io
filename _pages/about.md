@@ -24,9 +24,10 @@ social: true  # includes social icons at the bottom of the page
 Marie-Félicia Beclin
 ======
 
-I am currently a postdoctorant researcher at the Team EPIDERM in Université Paris-Est Créteil. 
+I am currently a postdoctorant researcher at the Team EPIDERM in Université Paris-Est Créteil. I am supervised by [Pr Tat Thang Vo](https://tatthangvo.com).
 
-Previously I was ATER at Université de Montpellier. I worked with Julie Josse in 
+
+Previously I was ATER at Université de Montpellier. I worked with [Dr. Julie Josse](http://juliejosse.com/) and Pr Jean-Baptiste Woillard on Superlearner for Synthetic Data Generation.
 
 Previously  I was a PhD student at [Université de Montpellier](https://www.umontpellier.fr/formation) within the [Desbrest Institute of Epidemiology and Public Health](https://idesp.umontpellier.fr/), and I am also a member of the team [PreMeDICaL](https://team.inria.fr/premedical/) at Inria. I am supervised by [Nicolas Molinari](http://n.molinari.free.fr/) and [Pierre Lafaye de Micheaux](https://web.maths.unsw.edu.au/~lafaye/). 
 
@@ -35,7 +36,7 @@ While my foundational education is in engineering, having graduated from Ecole d
 
 ## Talks 
 
-- Marie-Félicia Beclin,Jean-Baptiste Woillard, Giullia Marchello,Julie Josse, [**Super learner for tabular synthetic data generation**](), *Seminaire Equipe INRIA SODA*, June 2025.
+- Marie-Félicia Beclin,Jean-Baptiste Woillard, Giullia Marchello,Julie Josse, [**Super learner for tabular synthetic data generation**](), *Seminare of the Team INRIA SODA*, June 2025.
 
 - Marie-Félicia Beclin, Pierre Lafaye de Micheaux, Nicolas Molinari, **Regression Models for Quantile Function Data Applied to CT-Scans of Asthmatic Patients**, *Journée des Biostatisques*, December , 2024, Paris, France - 20 minutes talk
 
