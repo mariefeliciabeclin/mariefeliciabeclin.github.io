@@ -36,11 +36,11 @@ While my foundational education is in engineering, having graduated from Ecole d
 ## Talks 
 -  Marie-Félicia Beclin, Jean-Baptiste Woillard, Giullia Marchello,Julie Josse, **[Super learner for tabular synthetic data generation](https://mariefeliciabeclin.github.io/file/Superlearner_Synthetic_data_jdb_2025.pdf)**, *Journées des Biostatistiques*, Montpellier, November 2025 - 20 minutes talk.
 
-- Marie-Félicia Beclin, Jean-Baptiste Woillard, Giullia Marchello,Julie Josse, [**Super learner for tabular synthetic data generation**](https://mariefeliciabeclin.github.io/file/slides_synthetic_data.pdf), *Seminare of the Team INRIA SODA*, June 2025.
+- Marie-Félicia Beclin, Jean-Baptiste Woillard, Giullia Marchello,Julie Josse, **[Super learner for tabular synthetic data generation](https://mariefeliciabeclin.github.io/file/slides_synthetic_data.pdf)**, *Seminare of the Team INRIA SODA*, June 2025.
 
 - Marie-Félicia Beclin, Pierre Lafaye de Micheaux, Nicolas Molinari, **Regression Models for Quantile Function Data Applied to CT-Scans of Asthmatic Patients**, *Journée des Biostatisques*, December, 2024, Paris, France - 20 minutes talk
 
-- Marie-Félicia Beclin, Pierre Lafaye de Micheaux, Nicolas Molinari,[**Regression Models for Quantile Function Data Applied to CT-Scans of Asthmatic Patients**](https://mariefeliciabeclin.github.io/file/JdS_2024_Beclin_resume.pdf), *Journée des Statisitiques*, May, 2024, Paris, Portugal- 20 minutes talk
+- Marie-Félicia Beclin, Pierre Lafaye de Micheaux, Nicolas Molinari,**[Regression Models for Quantile Function Data Applied to CT-Scans of Asthmatic Patients](https://mariefeliciabeclin.github.io/file/JdS_2024_Beclin_resume.pdf)**, *Journée des Statisitiques*, May, 2024, Paris, Portugal- 20 minutes talk
 
 - Marie-Félicia Beclin, Pierre Lafaye de Micheaux, Nicolas Molinari, [**Regression Models for Quantile Function Data Applied to CT-Scans of Asthmatic Patients**](https://mariefeliciabeclin.github.io/talks/2023-12-talk-2), *IMS International Conference on Statistics and Data Science*, December 18-21, 2023, Lisbon, Portugal- 20 minutes talk
 
@@ -54,9 +54,9 @@ While my foundational education is in engineering, having graduated from Ecole d
 
 ### Preprint
 
-Marie-Félicia Beclin, Giulia Marchello, Jean-Baptiste Woillard, Julie Josse. [**Super learner for tabular synthetic data generation. 2025. ⟨hal-05285855⟩**](https://hal.science/hal-05285855)
+Marie-Félicia Beclin, Giulia Marchello, Jean-Baptiste Woillard, Julie Josse. **[Super learner for tabular synthetic data generation. 2025. ⟨hal-05285855⟩](https://hal.science/hal-05285855)**
 
-Béclin, M. F., de Micheaux, P. L., Molinari, N., & Ouimet, F. (2024). [**A linear regression model for quantile function data applied to paired pulmonary 3d CT scans.**](https://arxiv.org/pdf/2412.15049), A linear regression model for quantile function data applied to paired pulmonary 3d CT scans.
+Béclin, M. F., de Micheaux, P. L., Molinari, N., & Ouimet, F. (2024). **[A linear regression model for quantile function data applied to paired pulmonary 3d CT scans.](https://arxiv.org/pdf/2412.15049)**, A linear regression model for quantile function data applied to paired pulmonary 3d CT scans.
 
 ## Teaching
 
