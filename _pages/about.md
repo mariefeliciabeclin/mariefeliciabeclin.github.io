@@ -60,6 +60,9 @@ Béclin, M. F., de Micheaux, P. L., Molinari, N., & Ouimet, F. (2024). **[A line
 
 ## Teaching
 
+*Université Paris Saclay*
+Teaching assistant of [Pr Tat Thang Vo](https://tatthangvo.com) in "Introduction to Causal Inference" - Master2 Research in Public Health.
+
 *Université de Montpellier (ATER)*
 
 - Probability Life Science License (Probability on a finite universe, binomial distribution, conditional probabilities)
