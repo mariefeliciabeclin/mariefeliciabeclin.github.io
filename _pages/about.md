@@ -34,16 +34,17 @@ Previously  I was a PhD student at [Université de Montpellier](https://www.umon
 While my foundational education is in engineering, having graduated from Ecole des Mines de Saint-Etienne, my current focus lies in the realm of applied statistics. Specifically, I am engrossed in the analysis of thoracic computed tomography scans from patients afflicted by asthma. I am also working on synthetic data generation and Causal Inference.
 
 ## Talks 
+-  Marie-Félicia Beclin, Jean-Baptiste Woillard, Giullia Marchello,Julie Josse, [**Super learner for tabular synthetic data generation**](), *Journées des Biostatistiques*, Montpellier, November 2025 - 20 minutes talk.
 
-- Marie-Félicia Beclin,Jean-Baptiste Woillard, Giullia Marchello,Julie Josse, [**Super learner for tabular synthetic data generation**](), *Seminare of the Team INRIA SODA*, June 2025.
+- Marie-Félicia Beclin, Jean-Baptiste Woillard, Giullia Marchello,Julie Josse, [**Super learner for tabular synthetic data generation**](), *Seminare of the Team INRIA SODA*, June 2025.
 
-- Marie-Félicia Beclin, Pierre Lafaye de Micheaux, Nicolas Molinari, **Regression Models for Quantile Function Data Applied to CT-Scans of Asthmatic Patients**, *Journée des Biostatisques*, December , 2024, Paris, France - 20 minutes talk
+- Marie-Félicia Beclin, Pierre Lafaye de Micheaux, Nicolas Molinari, **Regression Models for Quantile Function Data Applied to CT-Scans of Asthmatic Patients**, *Journée des Biostatisques*, December, 2024, Paris, France - 20 minutes talk
 
 - Marie-Félicia Beclin, Pierre Lafaye de Micheaux, Nicolas Molinari,[**Regression Models for Quantile Function Data Applied to CT-Scans of Asthmatic Patients**](https://mariefeliciabeclin.github.io/file/JdS_2024_Beclin_resume.pdf), *Journée des Statisitiques*, May, 2024, Paris, Portugal- 20 minutes talk
 
 - Marie-Félicia Beclin, Pierre Lafaye de Micheaux, Nicolas Molinari, [**Regression Models for Quantile Function Data Applied to CT-Scans of Asthmatic Patients**](https://mariefeliciabeclin.github.io/talks/2023-12-talk-2), *IMS International Conference on Statistics and Data Science*, December 18-21, 2023, Lisbon, Portugal- 20 minutes talk
 
-- Marie-Félicia Beclin, Pierre Lafaye de Micheaux, Nicolas Molinari, **Regression Models for Quantile Function Data Applied to CT-Scans of Asthmatic Patients**, *Séminaire statistique imag* , Decembre 2023
+- Marie-Félicia Beclin, Pierre Lafaye de Micheaux, Nicolas Molinari, **Regression Models for Quantile Function Data Applied to CT-Scans of Asthmatic Patients**, *Séminaire statistique IMAG* , Decembre 2023
 
 - Marie-Félicia Beclin, Pierre Lafaye de Micheaux, Nicolas Molinari, **Regression Models for Quantile Function Data Applied to CT-Scans of Asthmatic Patients**, *Seminaire IDESP*,December 2023
 
