@@ -67,6 +67,7 @@ Teaching assistant of [Pr Tat Thang Vo](https://tatthangvo.com) in "Introduction
 
 - Probability Life Science License (Probability on a finite universe, binomial distribution, conditional probabilities)
 - Probability-Statistics Computer Science License (Probability on a finite universe, binomial distribution, conditional probabilities, basic Statistics)
+- Statistics and Introduction to Machine-Learning in Engineering School- Polytech Montpellier
 
 *Université de Montpellier (during my PhD)*
 - Algebra License 1 (Vector space, linear applications)
