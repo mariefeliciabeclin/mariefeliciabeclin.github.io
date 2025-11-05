@@ -34,7 +34,7 @@ Previously  I was a PhD student at [Université de Montpellier](https://www.umon
 While my foundational education is in engineering, having graduated from Ecole des Mines de Saint-Etienne, my current focus lies in the realm of applied statistics. Specifically, I am engrossed in the analysis of thoracic computed tomography scans from patients afflicted by asthma. I am also working on synthetic data generation and Causal Inference.
 
 ## Talks 
--  Marie-Félicia Beclin, Jean-Baptiste Woillard, Giullia Marchello,Julie Josse, [**Super learner for tabular synthetic data generation**](https://mariefeliciabeclin.github.io/file/Superlearner_Synthetic_data_jdb_2025.pdf), *Journées des Biostatistiques*, Montpellier, November 2025 - 20 minutes talk.
+-  Marie-Félicia Beclin, Jean-Baptiste Woillard, Giullia Marchello,Julie Josse, **[Super learner for tabular synthetic data generation](https://mariefeliciabeclin.github.io/file/Superlearner_Synthetic_data_jdb_2025.pdf)**, *Journées des Biostatistiques*, Montpellier, November 2025 - 20 minutes talk.
 
 - Marie-Félicia Beclin, Jean-Baptiste Woillard, Giullia Marchello,Julie Josse, [**Super learner for tabular synthetic data generation**](https://mariefeliciabeclin.github.io/file/slides_synthetic_data.pdf), *Seminare of the Team INRIA SODA*, June 2025.
 
