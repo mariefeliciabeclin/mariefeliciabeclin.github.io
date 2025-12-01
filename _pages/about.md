@@ -31,7 +31,10 @@ Previously I was ATER at Université de Montpellier. I worked with [Dr. Julie Jo
 
 Previously  I was a PhD student at [Université de Montpellier](https://www.umontpellier.fr/formation) within the [Desbrest Institute of Epidemiology and Public Health](https://idesp.umontpellier.fr/), and I am also a member of the team [PreMeDICaL](https://team.inria.fr/premedical/) at Inria. I am supervised by [Nicolas Molinari](http://n.molinari.free.fr/) and [Pierre Lafaye de Micheaux](https://web.maths.unsw.edu.au/~lafaye/). 
 
-While my foundational education is in engineering, having graduated from Ecole des Mines de Saint-Etienne, my current focus lies in the realm of applied statistics. Specifically, I am engrossed in the analysis of thoracic computed tomography scans from patients afflicted by asthma. I am also working on synthetic data generation and Causal Inference.
+While my foundational education is in engineering, having graduated from Ecole des Mines de Saint-Etienne, my current focus lies in the realm of applied statistics. Specifically, I am engrossed in the analysis of thoracic computed tomography scans from patients afflicted by asthma. I am also working on *Synthetic Data Generation* and *Causal Inference*.
+
+I am member of the "[Groupe des jeunes statisticiennes et statisticiens](https://www.sfds.asso.fr/fr/jeunes_statisticiens/468-les_jeunes_statisticiens/)" from the French Statistics Society ([SFdS](https://www.sfds.asso.fr/))
+
 
 ## Talks 
 -  Marie-Félicia Beclin, Jean-Baptiste Woillard, Giullia Marchello,Julie Josse, **[Super learner for tabular synthetic data generation](https://mariefeliciabeclin.github.io/file/Superlearner_Synthetic_data_jdb_2025.pdf)**, *Journées des Biostatistiques*, Montpellier, November 2025 - 20 minutes talk.
