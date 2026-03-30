@@ -35,6 +35,9 @@ While my foundational education is in engineering, having graduated from Ecole d
 
 I am member of the "[Groupe des jeunes statisticiennes et statisticiens](https://www.sfds.asso.fr/fr/jeunes_statisticiens/468-les_jeunes_statisticiens/)" from the French Statistics Society ([SFdS](https://www.sfds.asso.fr/))
 
+## Poster
+
+- Marie-Félicia Beclin, Tat-Thang Vo, **[Causally Interpretable Meta-Mediation Analysis](poster)** Abstract Recent Advances in Machine Learning for Healthcare, Jan 2026, Paris, France. ⟨hal-05572188⟩
 
 ## Talks 
 -  Marie-Félicia Beclin, Jean-Baptiste Woillard, Giullia Marchello,Julie Josse, **[Super learner for tabular synthetic data generation](https://mariefeliciabeclin.github.io/file/Superlearner_Synthetic_data_jdb_2025.pdf)**, *Journées des Biostatistiques*, Montpellier, November 2025 - 20 minutes talk.
@@ -54,6 +57,8 @@ I am member of the "[Groupe des jeunes statisticiennes et statisticiens](https:/
 - Marie-Félicia Beclin, Pierre Lafaye de Micheaux, Nicolas Molinari, [**Using Quantile Regression to Predict and Quantify some Treatment’s Response from Medical Images**](https://mariefeliciabeclin.github.io/talks/2022-06-talk-1), *Conférence IA et Santé*, Nantes, 2022
 
 ## Publication 
+
+
 
 ### Preprint
 
