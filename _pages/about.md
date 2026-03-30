@@ -75,7 +75,7 @@ Teaching assistant of [Pr Tat Thang Vo](https://tatthangvo.com) in "Introduction
 
 - Probability Life Science License (Probability on a finite universe, binomial distribution, conditional probabilities)
 - Probability-Statistics Computer Science License (Probability on a finite universe, binomial distribution, conditional probabilities, basic Statistics)
-- Statistics and Introduction to Machine-Learning in Engineering School- Polytech Montpellier ([Introductionand prerequisites](https://mariefeliciabeclin.github.io/file/Rappels_de_statistique%20(1).pdf)   [Regressions](https://mariefeliciabeclin.github.io/file/R%C3%A9gressions.pdf) , [Tests](https://mariefeliciabeclin.github.io/file/Tests_statistiques.pdf) , [Intro to trees and RF](https://mariefeliciabeclin.github.io/file/arbres_et_forets_al%C3%A9atoires.pdf)
+- Statistics and Introduction to Machine-Learning in Engineering School- Polytech Montpellier ([Introduction and prerequisites](https://mariefeliciabeclin.github.io/file/Rappels_de_statistique%20(1).pdf)   [Regressions](https://mariefeliciabeclin.github.io/file/R%C3%A9gressions.pdf) , [Tests](https://mariefeliciabeclin.github.io/file/Tests_statistiques.pdf) , [Intro to trees and RF](https://mariefeliciabeclin.github.io/file/arbres_et_forets_al%C3%A9atoires.pdf)
 
 *Université de Montpellier (during my PhD)*
 - Algebra License 1 (Vector space, linear applications)
