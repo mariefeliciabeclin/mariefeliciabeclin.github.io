@@ -37,7 +37,7 @@ I am member of the "[Groupe des jeunes statisticiennes et statisticiens](https:/
 
 ## Poster
 
-- Marie-Félicia Beclin, Tat-Thang Vo, **[Causally Interpretable Meta-Mediation Analysis](poster)** Abstract Recent Advances in Machine Learning for Healthcare, Jan 2026, Paris, France. ⟨hal-05572188⟩
+- Marie-Félicia Beclin, Tat-Thang Vo, **[Causally Interpretable Meta-Mediation Analysis](https://mariefeliciabeclin.github.io/file/poster.pdf)** Abstract Recent Advances in Machine Learning for Healthcare, Jan 2026, Paris, France. ⟨hal-05572188⟩
 
 ## Talks 
 -  Marie-Félicia Beclin, Jean-Baptiste Woillard, Giullia Marchello,Julie Josse, **[Super learner for tabular synthetic data generation](https://mariefeliciabeclin.github.io/file/Superlearner_Synthetic_data_jdb_2025.pdf)**, *Journées des Biostatistiques*, Montpellier, November 2025 - 20 minutes talk.
