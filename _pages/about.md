@@ -58,6 +58,14 @@ I am member of the "[Groupe des jeunes statisticiennes et statisticiens](https:/
 
 ## Publication 
 
+### Submitted
+Arnaud Bourdin, Marie Felicia Beclin, Pascal Chanez, Isabelle Vachier, Laurie Pahus,
+Erika Nogue, Sarah Skinner, Zakaria Lahmar, Mathilde Volpato, Joana Da-Silva
+Pissarra, Pierre Lafaye de Micheaux, Sebastien Bommart, Nicolas Molinari **Predicting clinical response to benralizumab using computed tomography: Prognostic BenraliScan study**, Chest
+
+Tran Trong Khoi Le, Marie-Félicia Béclin, Sivem Afach,  and Tat Thang Vo. **[Transportability of aggregate trial results to an
+external environment in causally interpretable meta-analysis](https://arxiv.org/pdf/2408.04854)**, Journal of the Royal Statistical Society - Serie A
+
 
 
 ### Preprint
