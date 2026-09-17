@@ -4,15 +4,15 @@ title: "Hi ! Welcome to my page."
 location: Paris
 excerpt: "About me"
 author_profile: true
-subtitle: Inria, France
+subtitle: Paris, Créteil, France
 profile:
   align: left
   image_circular: false # crops the image to make it circular
   address: >
-    <p>PreMeDICaL 03/228</p>
-    <p>Inria Montpellier</p>
-    <p>860 Rue de Saint Priest</p>
-    <p>34090 Montpellier</p>
+    <p>Epilogy IMRB </p>
+    <p>Institut Mondor de Recherches Biomédicales</p>
+    <p>Faculté de Médecine UPEC</p>
+    <p>Créteil</p>
     <p>France</p>
 redirect_from: 
   - /about/
